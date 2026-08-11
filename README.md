@@ -1,4 +1,4 @@
 # Demo
 First Repository 
 <br>
-Author-Tanishq
+Author-Tanishq Meena
